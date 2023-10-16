@@ -6,5 +6,5 @@ export {default as VideoDetail} from  './videodetail/VideoDetail'
 export {default as Searchbar } from  './searchbar/Searchbar'
 export {default as Video } from  './video/Video'
 export {default as Sidebar } from  './sidebar/Sidebar'
-
-
+export {default as VideoCard} from './videocard/VideoCard'
+export {default as ChannelCard} from './channelcard/ChannelCard'
